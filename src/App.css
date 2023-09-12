@@ -1,38 +1,6 @@
-header {
-    background: #6200EE;
-    padding: 12px;
-    color: white;
-    display: flex;
-    justify-content: space-between;
-}
 
-header h1 {
-    font-size: 20px;
-    font-weight: normal;
-}
 
-button {
-    background: #2A913E;
-    border: 0;
-    color: white;
-    text-transform: uppercase;
-    font-weight: bolder;
-    font-size: 0.8rem;
-    padding: 2px 36px;
-    border-radius: 3px;
-}
 
-.search {
-    display: flex;
-}
 
-.search input {
-    width: 13em;
-    margin-right: 5px;
-}
 
-.map {
-    background: green;
-    height: calc(100vh - 48px);
-}
 
