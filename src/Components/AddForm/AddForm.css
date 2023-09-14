@@ -1,0 +1,18 @@
+.add-form {
+    background: cornflowerblue;
+    width: 800px;
+    margin: 0 auto;
+    padding: 20px;
+}
+
+.add-form label {
+    display: block;
+    font-weight: bold;
+    margin-top: 10px;
+}
+
+.add-form input, .add-form textarea {
+    width: 80%;
+    margin-bottom: 25px;
+    padding: 10px;
+}
